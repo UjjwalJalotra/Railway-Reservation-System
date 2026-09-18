@@ -10,7 +10,7 @@ This project is developed as part of a 2nd-year B.Tech academic project at **VIT
 
 ## ✨ Features
 
-- Passenger Registration and Login
+- passenger Registration and Login
 - Train Search by Source and Destination
 - Train Number Selection
 - Ticket Booking
@@ -35,7 +35,7 @@ This project is developed as part of a 2nd-year B.Tech academic project at **VIT
 ```text
 RailwayReservationSystem/
 │
-├── Passenger.java
+├── assenger.java
 ├── main.java
 ├── Booking.java
 ├── RailwayGUI.java
@@ -44,7 +44,7 @@ RailwayReservationSystem/
 
 | Class | Description |
 |---|---|
-| `Passenger.java` | Stores passenger name, username, and password |
+| `passenger.java` | Stores passenger name, username, and password |
 | main.java` | Stores train details and available seats |
 | `Booking.java` | Stores PNR, passenger, train, seats, and journey date |
 | `RailwayGUI.java` | Contains the GUI and application logic |
