@@ -78,7 +78,7 @@ Railway-Reservation-System/
 │
 ├── RailwayGUI.java
 ├── Passenger.java
-├── Train.java
+├── main.java
 ├── Booking.java
 └── README.md
 ```
@@ -91,7 +91,7 @@ Stores passenger information:
 - `username`
 - `password`
 
-### Train.java
+### main.java
 
 Stores train information:
 
