@@ -66,7 +66,8 @@ javac -version
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/UjjwalJalotra/Railway-Reservation-System.git
+git clone https://github.com/UjjwalJalotra/Railway-Reservation-System.git
+cd Railway-Reservation-System
 ```
 
 Replace the placeholder with your actual GitHub repository URL.
