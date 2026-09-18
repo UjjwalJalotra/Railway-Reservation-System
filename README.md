@@ -35,7 +35,7 @@ This project is developed as part of a 2nd-year B.Tech academic project at **VIT
 ```text
 RailwayReservationSystem/
 │
-├── assenger.java
+├── passenger.java
 ├── main.java
 ├── Booking.java
 ├── RailwayGUI.java
@@ -45,7 +45,7 @@ RailwayReservationSystem/
 | Class | Description |
 |---|---|
 | `passenger.java` | Stores passenger name, username, and password |
-| main.java` | Stores train details and available seats |
+| `main.java` | Stores train details and available seats |
 | `Booking.java` | Stores PNR, passenger, train, seats, and journey date |
 | `RailwayGUI.java` | Contains the GUI and application logic |
 
