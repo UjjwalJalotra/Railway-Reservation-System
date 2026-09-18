@@ -132,6 +132,14 @@ Each train initially has 100 available seats in the current implementation.
 - Real-time train information
 - Enhanced user interface
 
+##Dependency Installation
+
+This project does not require any external dependencies or third-party libraries. It uses only the Java Standard Library and Java Swing, which are included with the JDK. Install JDK 8 or above before running the project.
+
+##Configuration
+
+No additional configuration or .env file is required. The application uses predefined train data and stores runtime data in memory using Java ArrayList.
+
 ## 👨‍💻 Developer
 
 **Ujjwal Jalotra**
